@@ -1,5 +1,4 @@
-(
-    function () {
+(function () {
       const DayNight = {
         cacheDom() {
           this.body = document.body;
